@@ -12,8 +12,11 @@ header{
     color: #ffffff;
     text-align: center;
     height: 100px;
+    margin-left: 15%;
 
 }
+
+
 
 #about{
     color: #4aaaa5
@@ -21,6 +24,9 @@ header{
 
 p{
     font-size: 1.5em;
+    color: #777777;
+    border-style: solid;
+    border-color: #dddddd
 }
 
 #pic{
@@ -30,6 +36,7 @@ p{
 .topbar{
     height: 100px;
     background: red;
+    width: 100%;
 }
 
 body{
@@ -40,7 +47,7 @@ body{
 
 .main{
     background: #ffffff;
-    width: 960px;
+    width: 70%;
     margin: auto;
   
 }
